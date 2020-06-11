@@ -2,6 +2,9 @@
 
 > A little Application allowing you to track earnings/expenses integrated frontend and backend  
 
+Client folder is pack of React frontend  
+Root is pack of Backend stuff  
+
 ## How to use  
 
 open terminal in the root folder of downloaded respository, by default Expense-Tracker-Final-master:  
