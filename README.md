@@ -4,7 +4,7 @@
 
 ## How to use  
 
-open terminal in the root folder downloaded respository, by default Expense-Tracker-Final-master folder:  
+open terminal in the root folder of downloaded respository, by default Expense-Tracker-Final-master:  
 npm install  
 cd client  
 npm install  
