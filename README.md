@@ -15,4 +15,4 @@ npm start
 go to localhost:5000
 enjoy
 
-At least 3 Mr. Kralewski at least 3.
+At least 3 Mr. Kralewski at least 3 :)
